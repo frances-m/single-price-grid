@@ -110,6 +110,9 @@ main section .contents {
   cursor: pointer;
   letter-spacing: -0.03rem;
 }
+.subscription button:hover {
+  color: black;
+}
 .subscription button:active {
   background-color: #b6d629;
 }

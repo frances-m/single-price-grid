@@ -123,9 +123,14 @@ main {
     cursor: pointer;
     letter-spacing: -.03rem;
 
+    &:hover {
+      color: black;
+    }
+
     &:active {
       background-color: hsl(71, 68%, 50%);
     }
+
   }
 }
 
